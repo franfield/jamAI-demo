@@ -1,0 +1,32 @@
+[Solo] (x2)\n\nBn -A-E-A\n\nBm - A-E\n\n[Verse 3]\n\nBm A E A\nAin't nobody messing with you, but you,\nBm A E\n\nYour friends are getting most concerned.\nBm A E\n\nLoose with the truth, baby it's your\n\nA Bm A E\n\nfire, but baby don't get burned.
+===
+"""{{
+    "solo": {{
+        "chords": [
+            ["Bm", "A", "E", "A"],
+            ["Bm", "A", "E", "E"]
+        ],
+        "scales": [
+            "B Minor Pentatonic",
+            "B Blues Scale",
+            "E Mixolydian"
+        ],
+        "tip": "Over the Bm and A, play the B Blues Scale or Pentatonic. Over the E, play the E Mixolydian scale.",
+        "key": "B Minor"
+    }},
+    "Verse 3": {{
+        "chords": [
+            ["Bm", "A", "E", "A"],
+            ["Bm", "A", "E", "E"],
+            ["Bm", "A", "E", "E"],
+            ["A", "Bm", "A", "E"]
+        ],
+        "scales": [
+            "B Minor Pentatonic",
+            "B Blues Scale",
+            "E Mixolydian"
+        ],
+        "tip": "Over the Bm and A, play the B Blues Scale or Pentatonic. Over the E, play the E Mixolydian scale",
+        "key": "B Minor"
+    }}
+}}"""
