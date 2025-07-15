@@ -2,7 +2,7 @@
 Ever want to play a solo and unsure where to start? I've been there. Use this tool to upload a screenshot of some chords and get back guitar tablature along with instructions on how to solo.
 ## Demo Instructions
 1. Find the deployed project here: http://jam-ai.s3-website-us-east-1.amazonaws.com/
-2. Use an image in the testcases/ directory
+2. Use an image in the testcases/ directory or provide your own. Please make sure to use a .png or .jpeg and avoid including spaces or special characters in the filename.
 3. Upload the image and click 'Process'
 4. Enjoy!
 
