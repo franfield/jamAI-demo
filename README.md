@@ -3,7 +3,7 @@ Ever want to play a solo and unsure where to start? I've been there. Use this to
 ## Demo Instructions
 1. Find the deployed project here: http://jam-ai.s3-website-us-east-1.amazonaws.com/
 2. Use an image in the testcases/ directory or provide your own. Please make sure to use a .png or .jpeg and avoid including spaces or special characters in the filename.
-3. Upload the image and click 'Process'
+3. Upload the image and click 'Process' (this is running on a Lambda so please be patient - it may need to cold start)
 4. Enjoy!
 
 ## Application Components
